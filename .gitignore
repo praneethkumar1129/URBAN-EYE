@@ -25,3 +25,6 @@ evidence/
 
 .DS_Store
 Thumbs.db
+
+# Temporary dataset archives
+*.zip
